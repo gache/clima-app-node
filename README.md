@@ -1,7 +1,7 @@
-## Aplicacion del clima - Curso node
+## Application Meteo - Cours Node
 
 
-Recuerden ejecutar `` npm install`` paara las librerias 
+n'oubliez pas de faire `` npm install`` pour l'installation des modules
 
-## Ejemplo:
+## Exemple:
 `node app -d "Paris"`
